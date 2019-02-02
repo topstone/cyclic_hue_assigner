@@ -1,0 +1,31 @@
+Style/AsciiComments:
+  Enabled: false
+
+Layout/EmptyLinesAroundModuleBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Style/ParenthesesAroundCondition:
+  Enabled: false
+
+Style/RedundantParentheses:
+  Enabled: false
+
+Style/GuardClause:
+  Enabled: false
+
+Style/MultilineIfThen:
+  Enabled: false
+
+Style/StringLiterals:
+  Exclude:
+    - 'lib/*/version.rb'
+
+Style/MutableConstant:
+  Exclude:
+    - 'lib/*/version.rb'
