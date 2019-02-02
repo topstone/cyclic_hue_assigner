@@ -1,3 +1,3 @@
 module CyclicHueAssigner
-  VERSION = '0.1.0' # 版番号。
+  VERSION = '0.1.1' # 版番号。
 end
